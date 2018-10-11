@@ -9,7 +9,7 @@
 <h2>Test Form Display</h2>
 Name: <?php echo $_GET["firstName"] . " " . $_GET["lastName"]; ?><br>
 Gender: <?php echo $_GET["gender"]; ?><br>
-Email Address: <?php echo $_GET["email"]; ?>
+Email Address: <?php echo $_GET["email"]; ?><br>
 Phone Number: <?php echo $_GET["pNumber"]; ?>
 </body>
 </html>
