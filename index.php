@@ -11,7 +11,7 @@
   <label>First Name:</label>
   <input type="text" name="firstName" id="firstName"/>
   <label>Last Name:</label>
-  <input type="text" name="LastName" id="lastName"/>
+  <input type="text" name="lastName" id="lastName"/>
   <label>Gender:</label>
   <input type="radio" name="gender" id="male" value="Male" checked="true"/>
   <input type="radio" name="gender" id="female" value="Female"/>
