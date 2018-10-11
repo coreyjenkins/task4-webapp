@@ -9,17 +9,17 @@
 <h2>Test Form</h2>
 <form action="/form_display.php">
   <label>First Name:</label>
-  <input type="text" name="firstName" id="firstName"/>
+  <input type="text" name="firstName" id="firstName"/><br>
   <label>Last Name:</label>
-  <input type="text" name="lastName" id="lastName"/>
+  <input type="text" name="lastName" id="lastName"/><br>
   <label>Gender:</label>
-  <input type="radio" name="gender" id="male" value="Male" checked="true"/>
-  <input type="radio" name="gender" id="female" value="Female"/>
-  <input type="radio" name="gender" id="other" value="Other"/>
+  <input type="radio" name="gender" id="male" value="Male" checked="true"/> Male <br>
+  <input type="radio" name="gender" id="female" value="Female"/> Female <br>
+  <input type="radio" name="gender" id="other" value="Other"/> Other <br>
   <label>Email:</label>
-  <input type="email" name="email" id="email" />
+  <input type="email" name="email" id="email" /><br>
   <label>Phone Number:</label>
-  <input type="text" name="pNumber" id="pNumber"/>
+  <input type="text" name="pNumber" id="pNumber"/><br>
   <input type="submit" name="btnSubmit"/>
 </form>  
 </body>
