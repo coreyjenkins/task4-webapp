@@ -13,8 +13,8 @@
   <label>Last Name:</label>
   <input type="text" name="lastName" id="lastName"/><br>
   <label>Gender:</label>
-  <input type="radio" name="gender" id="male" value="Male" checked="true"/> Male <br>
-  <input type="radio" name="gender" id="female" value="Female"/> Female <br>
+  <input type="radio" name="gender" id="male" value="Male" checked="true"/> Male
+  <input type="radio" name="gender" id="female" value="Female"/> Female
   <input type="radio" name="gender" id="other" value="Other"/> Other <br>
   <label>Email:</label>
   <input type="email" name="email" id="email" /><br>
